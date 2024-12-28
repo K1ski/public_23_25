@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.pz_23_25_guselnikova_PR23106" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.pz_23_25_guselnikova_PR23106.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@drawable/splash_screen</item>
+        <item name="windowSplashScreenAnimatedIcon">@android:color/transparent</item>
+        <item name="postSplashScreenTheme">@style/Theme.pz_23_25_guselnikova_PR23106</item>
+    </style>
+</resources>

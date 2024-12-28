@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pz_23_25_guselnikova_PR23106</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="title_activity_code">Code</string>
+    <string name="title_activity_create_password">CreatePassword</string>
+    <string name="title_activity_card">Card</string>
+    <string name="title_activity_analyses">AnalysesActivity</string>
+</resources>
